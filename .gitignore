@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Claude Code 설정 (API 키 등 민감 정보 포함)
+.claude/settings.json
+.claude/settings.local.json
