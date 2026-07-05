@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+# Unity binary-ish assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ttf binary
+*.otf binary
+*.asset merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.mat merge=unityyamlmerge eol=lf
