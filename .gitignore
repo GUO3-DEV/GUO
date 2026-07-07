@@ -101,3 +101,24 @@ InitTestScene*.unity*
 # Claude Code 설정 (API 키 등 민감 정보 포함)
 .claude/settings.json
 .claude/settings.local.json
+
+# Local agent/session artifacts
+.gjc/
+.omc/
+.omo/
+.opencode/
+skills/
+openclaw-workspace-state.json
+/.omo/evidence/*.png
+/screenshot.png
+/test_screenshot.png
+/unity_editor.png
+/gamescreen_capture.png
+.idea/
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+.gitmodules
+SetLogMaker/
